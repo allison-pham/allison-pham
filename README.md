@@ -1,6 +1,6 @@
 - 💌 Hi I'm Allison!
-- 💻 I’m interested in tech
-- 🌱 I’m currently learning C++, Python, and a few frameworks!
+- 🌱 Interests: tech and justice
+- 💻 Languages: C++, Java, and Python
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=3)
 
