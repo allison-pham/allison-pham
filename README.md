@@ -2,7 +2,7 @@
 - 💻 I’m interested in tech
 - 🌱 I’m currently learning C++, Python, and a few frameworks!
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=3)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?user=allison-pham&layout=compact&theme=dark&langs_count=3)
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
