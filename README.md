@@ -1,6 +1,7 @@
 - 💌 Hi I'm Allison!
 - 🌱 Interests: tech and justice
 - 💻 Languages: C++, Java, and Python
+- ✍️ Current project: website portfolio
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=3)
 
