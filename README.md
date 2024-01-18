@@ -1,7 +1,9 @@
 - 💌 Hi I'm Allison!
 - 🌱 **Interests:** tech + justice
 - 💻 **Languages:** C++, Python, Java
-- ✍️ **Current project:** website portfolio
+- ✍️ **Current projects:**
+  - Task Flow
+  - Website portfolio
 - 🗓️ **Focus:** This month, I'm focusing on front-end development!
 
   ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=4)
