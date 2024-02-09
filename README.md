@@ -2,7 +2,7 @@
 - 🌱 **Interests:** Tech + Justice + UI/UX
 - 💻 **Languages:** C++, Python, Java, HTML/CSS
 - ✍️ **Current projects:** Life Dev, Task Flow, website portfolio
-- 🗓️ **Focus:** This month, I'm focusing on front-end development!
+- 🗓️ **Focus:** This month, I'm focusing on CS review + growing my knowledge in each language I currently know!
 
 <!---
   ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=4)
