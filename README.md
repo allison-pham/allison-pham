@@ -1,14 +1,17 @@
 # 💌 Hi I'm Allison!
 # 🌱 **Interests**
-
 - Tech
 - Justice
 - UI/UX
 
 # 💻 **Tech**
-
 - C++
 - Python
+
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://github.com/allison-pham/allison-pham/blob/main/python.png" alt="python" width="40" height="40"/> </a>
+</p>
+
 - Java
 - HTML/CSS
 - JavaScript
