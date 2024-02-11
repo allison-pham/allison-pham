@@ -1,21 +1,21 @@
 # 💌 Hi I'm Allison!
-- My interests are tech, UI/UX, and justice
+- My interests are tech, UI/UX, and justice!
 
 # 🌱 Focus + Scope
-- **Backend-Dev:**
-- **UI/UX:** 
-- **Graphic Design:** 
+- Backend-dev
+- UI/UX
+- Graphic design
+
+# ✍️ **Current Projects!**
+- Life Dev
+- Task Flow
+- Website portfolio
 
 # 💻 **Tech**
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript
 - **Frameworks:** Q/t, Django
 - **Developer Tools:** VS Code, Git, PyCharm
 - **Libraries:** NumPy, pandas, Matplotlib	
-
-# ✍️ **Current Projects!**
-- Life Dev
-- Task Flow
-- Website portfolio
 
 # 📖 **Learning**
 - CS review
