@@ -13,7 +13,6 @@
 
 # 💻 **Tech**
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript
-- **Frameworks:** Q/t, Django
 - **Developer Tools:** VS Code, Git, PyCharm
 - **Libraries:** NumPy, pandas, Matplotlib	
 
