@@ -1,5 +1,6 @@
 ### 💌 Hi I'm Allison!
-### <ins>🌱 **Interests:**</ins>
+<h3><u>🌱 <b>Interests</b></u></h3>
+
 - Tech
 - Justice
 - UI/UX
