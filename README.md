@@ -1,8 +1,22 @@
-- 💌 Hi I'm Allison!
+### 💌 Hi I'm Allison!
 - 🌱 **Interests:** Tech + Justice + UI/UX
-- 💻 **Languages:** C++, Python, Java, HTML/CSS
-- ✍️ **Current projects:** Life Dev, Task Flow, website portfolio
-- 🗓️ **Focus:** This month, I'm focusing on CS review + growing my knowledge in each language I currently know!
+
+### 💻 **Languages**
+- C++
+- Python
+- Java
+- HTML/CSS
+- JavaScript
+
+### ✍️ **Current Projects!**
+- Life Dev
+- Task Flow
+- Website portfolio
+
+### 🗓️ Focus
+This month:
+- CS review
+- Growing my knowledge in CS languages
 
 <!---
   ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=4)
