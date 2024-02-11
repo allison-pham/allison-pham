@@ -1,11 +1,11 @@
-### 💌 Hi I'm Allison!
-<u>### 🌱 **Interests**</u>
+# 💌 Hi I'm Allison!
+# 🌱 **Interests**
 
 - Tech
 - Justice
 - UI/UX
 
-### 💻 **Languages**
+# 💻 **Tech**
 
 - C++
 - Python
@@ -13,13 +13,13 @@
 - HTML/CSS
 - JavaScript
 
-### ✍️ **Current Projects!**
+# ✍️ **Current Projects!**
 
 - Life Dev
 - Task Flow
 - Website portfolio
 
-### 🗓️ Focus
+# 🗓️ Focus
 
 This month:
 - CS review
