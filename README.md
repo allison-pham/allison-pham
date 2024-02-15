@@ -1,10 +1,9 @@
 # 💌 Hi I'm Allison!
-- My interests are tech, UI/UX, and justice!
 
 # 🌱 Focus + Scope
-- Backend-dev
-- UI/UX
-- Graphic design
+- Tech (backend dev)
+- UI/UX + graphic design
+- Justice
 
 # ✍️ **Current Projects!**
 - Life Dev
