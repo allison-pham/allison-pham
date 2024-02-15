@@ -1,7 +1,7 @@
 # 💌 Hi I'm Allison!
 
 # 🌱 Focus + Scope
-- Tech (backend dev)
+- Tech
 - UI/UX + graphic design
 - Justice
 
