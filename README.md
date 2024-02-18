@@ -2,7 +2,7 @@
 
 # 🌱 Focus + Scope
 - Tech
-- UI/UX + graphic design
+- UX/UI + graphic design
 - Justice
 
 # ✍️ **Current Projects!**
@@ -11,9 +11,10 @@
 - Website portfolio
 
 # 💻 **Tech**
-- **Languages:** C++, Python, Java, HTML/CSS, JavaScript
-- **Developer Tools:** VS Code, Git, PyCharm
-- **Libraries:** NumPy, pandas, Matplotlib	
+- **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
+- **Frameworks:** Next.js, Tailwind CSS, Django, libGDX
+- **Developer Tools:** Visual Studio Code, Unity, JupyterNotebook, PyCharm, Git
+- **Libraries:** React, NumPy, pandas, Matplotlib
 
 # 📖 **Learning**
 - CS review
