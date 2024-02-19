@@ -1,10 +1,9 @@
 # 💌 Hi I'm Allison!
-- My interests are tech, UI/UX, and justice!
 
 # 🌱 Focus + Scope
-- Backend-dev
-- UI/UX
-- Graphic design
+- Tech
+- UX/UI + graphic design
+- Justice
 
 # ✍️ **Current Projects!**
 - Life Dev
@@ -12,9 +11,10 @@
 - Website portfolio
 
 # 💻 **Tech**
-- **Languages:** C++, Python, Java, HTML/CSS, JavaScript
-- **Developer Tools:** VS Code, Git, PyCharm
-- **Libraries:** NumPy, pandas, Matplotlib	
+- **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
+- **Frameworks:** Django, Tailwind CSS, libGDX
+- **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
+- **Libraries:** NumPy, pandas, Matplotlib, scikit-learn
 
 # 📖 **Learning**
 - CS review
