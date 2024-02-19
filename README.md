@@ -12,7 +12,7 @@
 
 # 💻 **Tech**
 - **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
-- **Frameworks:** Next.js, Tailwind CSS, Django, libGDX
+- **Frameworks:** Django, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
 - **Libraries:** NumPy, pandas, Matplotlib
 
