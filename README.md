@@ -14,7 +14,7 @@
 - **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
 - **Frameworks:** Django, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
-- **Libraries:** NumPy, pandas, Matplotlib
+- **Libraries:** NumPy, pandas, Matplotlib, scikit-learn
 
 # 📖 **Learning**
 - CS review
