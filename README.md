@@ -2,7 +2,7 @@
 
 # 🌱 Focus + Scope
 - Tech
-- UX/UI + graphic design
+- UI/UX + graphic design
 - Justice
 
 # ✍️ **Current Projects!**
