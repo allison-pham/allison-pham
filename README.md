@@ -13,7 +13,7 @@
 # 📖 **Learning**
 **Current**
 - CS review
-- Frontend development
+- Frontend development<br>
 **Future**
 - Backend development
 
