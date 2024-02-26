@@ -10,14 +10,18 @@
 - Task Flow
 - Website portfolio
 
+# 📖 **Learning**
+**Current**
+- CS review
+- Frontend development
+**Future**
+- Backend development
+
 # 💻 **Tech**
 - **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
 - **Libraries:** NumPy, pandas, Matplotlib, scikit-learn
-
-# 📖 **Learning**
-- CS review
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
