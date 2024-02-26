@@ -14,6 +14,7 @@
 **Current**
 - CS review
 - Frontend development<br>
+
 **Future**
 - Backend development
 
