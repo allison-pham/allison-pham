@@ -5,12 +5,15 @@
 - UI/UX + graphic design
 - Justice
 
-# ✍️ **Current Projects!**
+# ✍️ Current Projects!
 - Life Dev
 - Task Flow
 - Website portfolio
 
-# 📖 **Learning**
+# Methodologies
+- **Product:** design → develop → deploy
+
+# 📖 Learning
 **Current**
 - CS review
 - Frontend development<br>
