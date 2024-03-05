@@ -11,7 +11,7 @@
 - Website portfolio
 
 # Methodologies
-- **Product:** design → develop → deploy
+- **Product:** research → design → develop → deploy
 
 # 📖 Learning
 **Current**
