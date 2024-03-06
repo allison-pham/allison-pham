@@ -11,7 +11,7 @@
 - Life Dev
 - Application Sorter
 
-# Methodologies
+# 🛠️ Innovation
 - **Product:** research → design → develop → deploy
 
 # 📖 Learning
