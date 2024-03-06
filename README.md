@@ -6,9 +6,10 @@
 - Justice
 
 # ✍️ Current Projects!
-- Life Dev
-- Task Flow
 - Website portfolio
+- Task Flow
+- Life Dev
+- Application Sorter
 
 # Methodologies
 - **Product:** research → design → develop → deploy
