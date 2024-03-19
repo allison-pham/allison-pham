@@ -15,7 +15,6 @@
 - **Product:** research → design → develop → deploy
 
 # 📖 Learning
-**Current**
 - CS review
 - Frontend development
 - Backend development<br>
