@@ -7,9 +7,9 @@
 
 # ✍️ Current Projects!
 - Website portfolio
-- Task Flow
 - Life Dev
-- Application Sorter
+- Our Connection
+- Task Flow
 
 # 🛠️ Innovation
 - **Product:** research → design → develop → deploy
@@ -17,16 +17,14 @@
 # 📖 Learning
 **Current**
 - CS review
-- Frontend development<br>
-
-**Future**
-- Backend development
+- Frontend development
+- Backend development<br>
 
 # 💻 **Tech**
-- **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
+- **Languages:** Python, C++, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
-- **Libraries:** NumPy, pandas, Matplotlib, scikit-learn
+- **Developer Tools:** Visual Studio Code, PyCharm, Git
+- **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
