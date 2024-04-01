@@ -2,12 +2,11 @@
 
 # 🌱 Focus + Scope
 - Tech
-- UI/UX + graphic design
+- UI/UX
 - Justice
 
 # ✍️ Current Projects!
 - Website portfolio
-- Life Dev
 - Our Connection
 - Task Flow
 
