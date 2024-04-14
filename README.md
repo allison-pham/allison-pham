@@ -15,8 +15,7 @@
 
 # 📖 Learning
 - CS review
-- Frontend development
-- Backend development<br>
+- Full stack development<br>
 
 # 💻 **Tech**
 - **Languages:** Python, C++, Java, HTML/CSS, JavaScript, C#
