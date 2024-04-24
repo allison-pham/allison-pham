@@ -6,9 +6,10 @@
 - Justice
 
 # ✍️ Current Projects!
-- Website portfolio
-- Our Connection
-- Task Flow
+- Website Portfolio
+- dT Website
+- HA Website
+- STEAM Fest Website
 
 # 🛠️ Innovation
 - **Product:** research → design → develop → deploy
