@@ -1,24 +1,24 @@
 # 💌 Hi I'm Allison!
 
-# 🌱 Focus + Scope
+## 🌱 Focus + Scope
 - Tech
 - UI/UX
 - Justice
 
-# ✍️ Current Projects!
+## ✍️ Current Projects!
 - Website Portfolio
 - dT Website
 - HA Website
-- STEAM Fest Website
+- TSB: STEAM Fest Website
 
-# 🛠️ Innovation
+## 🛠️ Innovation
 - **Product:** research → design → develop → deploy
 
-# 📖 Learning
+## 📖 Learning
 - CS review
 - Full stack development<br>
 
-# 💻 **Tech**
+## 💻 **Tech**
 - **Languages:** Python, C++, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, PyCharm, Git
