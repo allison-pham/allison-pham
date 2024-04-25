@@ -19,7 +19,7 @@
 - Full stack development<br>
 
 ## 💻 **Tech**
-- **Languages:** Python, C++, Java, HTML/CSS, JavaScript, C#
+- **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, PyCharm, Git
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
