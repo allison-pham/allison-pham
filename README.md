@@ -1,7 +1,6 @@
 # Hello!
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer" alt="Typing SVG" />
-</h1>
 
 ## 🌱 Focus + Scope
 - Tech
