@@ -9,7 +9,7 @@
 - UI/UX
 - Justice
 </p>
-<br><br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="320" />
