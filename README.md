@@ -1,16 +1,14 @@
-<div style="display: flex; align-items: center;">
-  <img src="kirby.png" alt="Kirby" style="width: 300px; margin-right: 20px;">
-  <div>
-    <h1>Hello!</h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer">
-    <h2>🌱 Focus + Scope</h2>
-    <ul>
-      <li>Tech</li>
-      <li>UI/UX</li>
-      <li>Justice</li>
-    </ul>
-  </div>
-</div>
+<p>
+<img align="left" src="kirby.png" width="300px">
+
+# Hello!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer)
+
+**🌱 Focus + Scope**
+- Tech
+- UI/UX
+- Justice
+</p>
 
 ## ✍️ Current Projects!
 - Website Portfolio
@@ -44,17 +42,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://github.com/allison-pham/allison-pham/blob/main/python.png" alt="python" width="40" height="40"/> </a>
-</p>
-
-<p>
-<img align="left" src="kirby.png" width="300px">
-
-# Hello!
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer)
-
-## 🌱 Focus + Scope
-- Tech
-- UI/UX
-- Justice
 </p>
 --->
