@@ -1,15 +1,19 @@
-<p>
-<img align="left" src="kirby.png" width="300px">
+<div>
+  <img src="kirby.png" alt="Kirby" style="float: left; width: 300px; margin-right: 20px;">
+</div>
+<div style="clear: both;">
+  <h1>Hello!</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer">
+</div>
+<div>
+  <h2>🌱 Focus + Scope</h2>
+  <ul>
+    <li>Tech</li>
+    <li>UI/UX</li>
+    <li>Justice</li>
+  </ul>
+</div>
 
-# Hello!
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer)
-
-## 🌱 Focus + Scope
-- Tech
-- UI/UX
-- Justice
-
-</p>
 
 ## ✍️ Current Projects!
 - Website Portfolio
