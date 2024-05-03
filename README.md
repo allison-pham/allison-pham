@@ -16,6 +16,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="420" />
 </div>
 
+## 💻 Tech
+- **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
+- **Frameworks:** Vue.js, Tailwind CSS, libGDX
+- **Developer Tools:** Visual Studio Code, PyCharm, Git
+- **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
+
 ## ✍️ Current Projects!
 - Website Portfolio
 - dT Website
@@ -28,12 +34,6 @@
 ## 📖 Learning
 - CS review
 - Full stack development<br>
-
-## 💻 Tech
-- **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
-- **Frameworks:** Vue.js, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, PyCharm, Git
-- **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 
 ## 📞 Contact
 - [LinkedIn](https://www.linkedin.com/in/imallison)
