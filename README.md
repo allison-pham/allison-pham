@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="380" />
   <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" width="420" />
 </p>
 
