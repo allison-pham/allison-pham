@@ -35,6 +35,9 @@
 - **Developer Tools:** Visual Studio Code, PyCharm, Git
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 
+## 📞 Contact
+- [LinkedIn](https://www.linkedin.com/in/imallison)
+
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
