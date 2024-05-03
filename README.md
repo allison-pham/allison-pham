@@ -11,23 +11,14 @@
 </p>
 <br><br>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 50%;">
-    <h2>✍️ Current Projects!</h2>
-    <ul>
-      <li>Website Portfolio</li>
-      <li>dT Website</li>
-      <li>HA Website</li>
-      <li>TSB: STEAM Fest Website</li>
-    </ul>
-  </div>
-  <div style="width: 50%;">
-    <h2>🛠️ Innovation</h2>
-    <ul>
-      <li><strong>Product:</strong> research → design → develop → deploy</li>
-    </ul>
-  </div>
-</div>
+## ✍️ Current Projects!
+- Website Portfolio
+- dT Website
+- HA Website
+- TSB: STEAM Fest Website
+
+## 🛠️ Innovation
+- **Product:** research → design → develop → deploy
 
 ## 📖 Learning
 - CS review
