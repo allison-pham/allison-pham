@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="420" />
 </p>
 
 ## 🌱 Focus + Scope
