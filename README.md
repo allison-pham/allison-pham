@@ -4,7 +4,7 @@
 # Hello!
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer)
 
-<h2>🌱 Focus + Scope</h2>
+🌱 **Focus + Scope**
 - Tech
 - UI/UX
 - Justice
@@ -23,7 +23,7 @@
 - CS review
 - Full stack development<br>
 
-## 💻 **Tech**
+## 💻 Tech
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, PyCharm, Git
