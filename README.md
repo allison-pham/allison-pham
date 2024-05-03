@@ -1,4 +1,6 @@
-# 💌 Hi I'm Allison!
+# 💌 Hi!
+<p>
+<img align="left" src="kirby.png" width="300px">
 
 # 🌱 Focus + Scope
 - Tech
