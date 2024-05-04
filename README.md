@@ -16,6 +16,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="420" />
 </div>
 
+## 📊 GitHub Stats
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=imallison&bg_color=000000&color=ffffff&line=00e6e6&point=ffffff&area=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=imallison&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imallison&repo=books-data-analysis&theme=radical)](https://github.com/imallison/books-data-analysis)
+![Trophies](https://github-profile-trophy.vercel.app/?username=imallison&theme=onedark)
+
 ## 💻 Tech
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
