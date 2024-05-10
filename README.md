@@ -7,7 +7,7 @@
 🌱 **My Focus**
 - 👩‍💻 **Tech:** Formulate MVPs for web platforms
 - 🎨 **Design:** Combining UI/UX with product design to create meaningful projects
-- 💼 **Justice:** Advocate for issues affecting both internal and external affairs
+- 💼 **Justice:** Advocate for issues affecting internal and external affairs
 </p>
 <br><br>
 
@@ -35,8 +35,10 @@
 - CS review
 - Full stack development<br>
 
-## 📞 Contact
+## 📞 Connect with Me!
+- [Website](https://imallison.com/)
 - [LinkedIn](https://www.linkedin.com/in/imallison)
+- [Devpost](devpost.com/imallison)
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
