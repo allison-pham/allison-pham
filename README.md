@@ -38,7 +38,7 @@
 ## 📞 Connect with Me!
 - [Website](https://imallison.com/)
 - [LinkedIn](https://www.linkedin.com/in/imallison)
-- [Devpost](devpost.com/imallison)
+- [Devpost](https://devpost.com/imallison)
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
