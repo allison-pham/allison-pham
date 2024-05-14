@@ -24,9 +24,8 @@
 
 ## ✍️ Current Projects!
 - Website Portfolio
-- dT Website
-- HA Website
-- TSB: STEAM Fest Website
+- BioQuest
+- YouFlow
 
 ## 🛠️ Innovation
 - **Product:** research → design → develop → deploy
