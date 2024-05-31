@@ -12,7 +12,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="250" />
   <img src="https://github-readme-stats.vercel.app/api?username=imallison&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" width="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imallison&theme=tokyonight&hide_border=true" width="320" />
 </div>
