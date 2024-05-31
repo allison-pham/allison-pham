@@ -13,7 +13,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imallison&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imallison&theme=tokyonight&hide_border=true" width="320" />
 </div>
 
 ## 💻 Tech
@@ -49,4 +50,5 @@ You can click the Preview link to take a look at your changes.
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imallison&repo=books-data-analysis&theme=radical)](https://github.com/imallison/books-data-analysis)
   ![Trophies](https://github-profile-trophy.vercel.app/?username=imallison&theme=onedark)
+  <img src="https://github-readme-stats.vercel.app/api?username=imallison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="420" />
 --->
