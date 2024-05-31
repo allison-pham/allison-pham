@@ -28,8 +28,8 @@
 
 ## ✍️ Current Projects!
 - Website Portfolio
-- BioQuest
-- YouFlow
+- Cozy Chat
+- Task Flow
 
 ## 🛠️ Innovation
 - **Product:** research → design → develop → deploy
