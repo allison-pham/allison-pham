@@ -23,8 +23,9 @@
 ## 💻 Tech
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Vue.js, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, PyCharm, Git
+- **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
+- **Design Software:** Figma, Canva, Adobe Express
 
 ## ✍️ Current Projects!
 - Website Portfolio
@@ -32,7 +33,7 @@
 - Task Flow
 
 ## 🛠️ Innovation
-- **Product:** research → design → develop → deploy
+- **Product:** research → design → develop → build → deploy
 
 ## 📖 Learning
 - CS review
