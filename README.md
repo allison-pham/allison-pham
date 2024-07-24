@@ -28,7 +28,7 @@
 - **Design Software:** Figma, Canva, Adobe Express
 
 ## ✍️ Current Projects!
-- Website Portfolio
+- Personal Website
 - Cozy Chat
 - Task Flow
 
