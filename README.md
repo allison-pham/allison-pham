@@ -22,15 +22,14 @@
 
 ## 💻 Tech
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
-- **Frameworks:** Vue.js, Tailwind CSS, libGDX
+- **Frameworks:** React, Vue.js, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 - **Design Software:** Figma, Canva, Adobe Express
 
 ## ✍️ Current Projects!
-- Personal Website
+- Personal Portfolio Website
 - Cozy Chat
-- Task Flow
 
 ## 🛠️ Innovation
 - **Product:** research → design → develop → build → deploy
