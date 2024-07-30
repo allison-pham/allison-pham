@@ -39,7 +39,7 @@
 - Full stack development<br>
 
 ## 📞 Connect with Me!
-- [Website]([https://imallison.com/](https://www.allisonpham.dev/))
+- [Website](https://www.allisonpham.dev/)
 - [LinkedIn](https://www.linkedin.com/in/allisonpham7)
 - [Devpost](https://devpost.com/imallison)
 
