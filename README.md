@@ -39,8 +39,8 @@
 - Full stack development<br>
 
 ## 📞 Connect with Me!
-- [Website](https://imallison.com/)
-- [LinkedIn](https://www.linkedin.com/in/imallison)
+- [Website]([https://imallison.com/](https://www.allisonpham.dev/))
+- [LinkedIn](https://www.linkedin.com/in/allisonpham7)
 - [Devpost](https://devpost.com/imallison)
 
 <!---
