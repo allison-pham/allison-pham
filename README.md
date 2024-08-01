@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C598FF&random=false&width=435&lines=I'm+Allison+%F0%9F%92%8C;I'm+a+student%2C+developer%2C+%26+designer)
 
 🌱 **My Focus**
-- 📚 **Study:** Computer Engineering, Cognitive Science, and Neuromorphic Engineering
+- 📚 **Study:** interested in Computer Engineering, Cognitive Science, and Neuromorphic Engineering
 - 👩‍💻 **Tech:** optimize solutions for issues and formulate MVPs for web platforms
 - 🎨 **Design:** combining UI/UX with product design to create meaningful projects
 - 💼 **Justice:** advocate for local and global concerns
