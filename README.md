@@ -21,25 +21,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imallison&theme=tokyonight&hide_border=true" width="420" />
 </div>
 
-## 💻 Tech
+## 💫 About Me
+- **✍️ Current projects:** Personal portfolio website, Cozy Chat, AI Customer Support
+- **🛠️ Innovation:** product = research → design → develop → build → deploy
+- **📖 Learning:** CS review + full stack development
+
+## 💻 Tech Stack
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Next.js, Vue.js, Tailwind CSS, libGDX
 - **Developer Tools:** Visual Studio Code, Vercel, PyCharm, Unity, Git
 - **Libraries:** React, scikit-learn, pandas, NumPy, Matplotlib
 - **Design Software:** Figma, Canva, Adobe Express
-
-## ✍️ Current Projects!
-- Personal Portfolio Website
-- Cozy Chat
-
-## 🛠️ Innovation
-- **Product:** research → design → develop → build → deploy
-
-## 📖 Learning
-- CS review
-- Full stack development<br>
-
-![Profile](https://eoi9i0wettqq1q8.m.pipedream.net/)
 
 ## 📞 Connect with Me!
 - [Website](https://www.allisonpham.dev/)
