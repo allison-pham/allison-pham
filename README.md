@@ -24,7 +24,7 @@
 ## 💻 Tech
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Next.js, Vue.js, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, PyCharm, Unity, Git
+- **Developer Tools:** Visual Studio Code, Vercel, PyCharm, Unity, Git
 - **Libraries:** React, scikit-learn, pandas, NumPy, Matplotlib
 - **Design Software:** Figma, Canva, Adobe Express
 
