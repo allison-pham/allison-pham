@@ -26,6 +26,8 @@
 - 🛠️ **Innovation:** product = research → design → develop → build → deploy
 - 📖 **Learning:** CS review + full stack development
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imallison&label=Profile%20views&color=0e75b6&style=flat" alt="imallison" /> </p>
+
 ## 💻 Tech Stack
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
 - **Frameworks:** Next.js, Vue.js, Tailwind CSS, libGDX
