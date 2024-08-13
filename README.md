@@ -22,11 +22,9 @@
 </div>
 
 ## 💫 About Me
-- **✍️ Current projects:** personal portfolio website, Cozy Chat, AI Customer Support
-- **🛠️ Innovation:** product = research → design → develop → build → deploy
-- **📖 Learning:** CS review + full stack development
-
-<img src="https://eoi9i0wettqq1q8.m.pipedream.net/" alt="Profile Views" />
+- ✍️ **Current projects:** personal portfolio website, Cozy Chat, AI Customer Support
+- 🛠️ **Innovation:** product = research → design → develop → build → deploy
+- 📖 **Learning:** CS review + full stack development
 
 ## 💻 Tech Stack
 - **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
