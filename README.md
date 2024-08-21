@@ -1,4 +1,4 @@
-# 💌 Hello! I'm Allison, a developer dedicated to building optimized prototypes
+# 💌 Hello! I'm Allison, a developer dedicated to building projects
 <p>
 <img align="left" src="kirby.png" width="300px">
 
