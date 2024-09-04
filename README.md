@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 - ✍️ **Current projects:** personal portfolio website, Cozy Chat
-- 🛠️ **Innovation:** product = research → design → develop → build → deploy
+- 🛠️ **Innovation stages:** product = research → design → develop → build → deploy
 - 📖 **Learning:** CS review + full stack development
 
 ## 💻 Tech Stack
