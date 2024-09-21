@@ -13,12 +13,12 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allison-pham&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one" width="320" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imallison&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imallison&theme=tokyonight&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allison-pham&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allison-pham&theme=tokyonight&hide_border=true" width="420" />
 </div>
 
 ## 💫 About Me
