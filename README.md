@@ -27,10 +27,10 @@
 - 📖 **Learning:** CS review + full stack development
 
 ## 💻 Tech Stack
-- **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
-- **Frameworks:** Next.js, Vue.js, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, Vercel, PyCharm, Unity, Git
-- **Libraries:** React, scikit-learn, pandas, NumPy, Matplotlib
+- **Languages:** C++, Python, Java, JavaScript, HTML/CSS, C#
+- **Frameworks:** React, Next.js, Vue.js, Django, Tailwind CSS
+- **Developer Tools:** Git, Visual Studio Code, PyCharm, Unity
+- **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 - **Design Software:** Figma, Canva, Adobe Express
 
 ## 📞 Connect with Me!
