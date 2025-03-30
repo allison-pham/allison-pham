@@ -22,13 +22,13 @@
 </div>
 
 ## 💫 About Me
-- ✍️ **Current projects:** personal portfolio website, Cozy Chat
+- ✍️ **Current projects:** designing a gamified system
 - 🛠️ **Innovation stages:** product = research → design → develop → build → deploy
 - 📖 **Learning:** CS review + full stack development
 
 ## 💻 Tech Stack
 - **Languages:** C++, Python, Java, JavaScript, HTML/CSS, C#
-- **Frameworks:** React, Next.js, Vue.js, Django, Tailwind CSS
+- **Frameworks:** React, Next.js, Vue.js, Tailwind CSS
 - **Developer Tools:** Git, Visual Studio Code, PyCharm, Unity
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 - **Design Software:** Figma, Canva, Adobe Express
