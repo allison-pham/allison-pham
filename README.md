@@ -1,4 +1,4 @@
-# 💌 Hi!
+# 🚀 I'm Allison - a developer dedicated to building solutions
 <p>
 <img align="left" src="kirby.png" width="300px">
 
