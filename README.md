@@ -1,4 +1,4 @@
-# 🚀 I'm Allison | Combining product, tech, and business to develop and scale solutions
+# 🚀 I'm Allison | Intersecting product, tech, and business to develop and scale solutions
 <p>
 
 *Computer Engineering @ UCR, Building @ NYX, Product @ Multiple Organizations*
@@ -11,8 +11,8 @@
 
 ## 🛠️ Projects
 - **Portfolio:** Revamping personal website to improve UI/UX and add more interactive elements
-- **Web Platform:** Building a mini web platform that optimizes productivity and social media
-- **Life Optimization:** Developing a life manager that uses gamification to enhance life optimization and motivation
+- **Web platform:** Building a mini web platform that optimizes productivity and social media
+- **Life optimization:** Developing a life manager that uses gamification to enhance life optimization and motivation
 - **Finance:** Designing and engineering financial software to elevate UX
 
 ## ✦ Background
@@ -32,7 +32,7 @@
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 - **Design Software:** Figma, Canva, Adobe Express
 
-## 📞 Connect with Me!
+## 📞 Connect with Me
 - [Website](https://www.allisonpham.dev/)
 - [LinkedIn](https://www.linkedin.com/in/allisonpham7)
 - [Devpost](https://devpost.com/imallison)
