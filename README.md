@@ -1,18 +1,19 @@
 # 🚀 I'm Allison | Product management -> scaling solutions
 <p>
-Computer Engineering @ UCR
+## 🕴️ About
+- Computer Engineering @ UCR
 
-🌱 **My Focus**
+## 🌱 My Focus
 - **Study:** cognitive science, business, and law
 - **Tech:** building `optimized` and scalable solutions
 - **Product:** diving into design, development, and management
 - **Design:** designing clean UIs to maximize UX
 
 ## 🛠️ Projects
-- Revamping personal website to improve UI/UX and add more interactive elements
-- Building a mini web platform that optimizes productivity and social media
-- Developing a task manager that uses gamification to enhance life optimization and motivation
-- Financial software
+- **Portfolio:** Revamping personal website to improve UI/UX and add more interactive elements
+- **Web Platform:** Building a mini web platform that optimizes productivity and social media
+- **Life Optimization:** Developing a life manager that uses gamification to enhance life optimization and motivation
+- **Finance:** Designing and engineering financial software to elevate UX
 
 ## ✦ Background
 - 🤝 **Organizations:** Serve `30+ organizations` (companies, startups, nonprofits) through tech, business, and design
