@@ -1,4 +1,4 @@
-# 🚀 I'm Allison | Product Management to develop and scale solutions
+# 🚀 I'm Allison | Combining product, tech, and business to develop and scale solutions
 <p>
 
 *Computer Engineering @ UCR, Building @ NYX, Product @ Multiple Organizations*
