@@ -1,7 +1,7 @@
-# 🚀 I'm Allison | Product management -> scaling solutions
+# 🚀 I'm Allison | Product Management to develop and scale solutions
 <p>
-## 🕴️ About
-- Computer Engineering @ UCR
+
+*Computer Engineering @ UCR, Building @ NYX, Product @ Multiple Organizations*
 
 ## 🌱 My Focus
 - **Study:** cognitive science, business, and law
