@@ -1,7 +1,7 @@
-# 🚀 I'm Allison | Intersecting product, tech, and business to develop and scale solutions
+# 🚀 I'm Allison | Intersecting product, tech, business to develop & scale solutions
 <p>
 
-*Computer Engineering @ UCR, Building @ NYX, Product @ Multiple Organizations*
+*Computer Engineering @ UCR, Building @ NYX, Product @ Various Organizations*
 
 ## 🌱 My Focus
 - **Study:** cognitive science, business, and law
@@ -33,7 +33,7 @@
 - **Design Software:** Figma, Canva, Adobe Express
 
 ## 📞 Connect with Me
-- [Website](https://www.allisonpham.dev/)
+- [Portfolio Website](https://www.allisonpham.dev/)
 - [LinkedIn](https://www.linkedin.com/in/allisonpham7)
 - [Devpost](https://devpost.com/imallison)
 
