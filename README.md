@@ -1,34 +1,40 @@
-# 🚀 I'm Allison - a developer dedicated to building solutions
+# 🚀 I'm Allison | Intersecting product, tech, business to develop & scale solutions
 <p>
-<img align="left" src="kirby.png" width="300px">
 
-# 🌱 Focus + Scope
-- Tech
-- UX/UI + graphic design
-- Justice
+*Computer Engineering @ UCR, Building @ NYX, Product @ Various Organizations*
 
-# ✍️ **Current Projects!**
-- Life Dev
-- Task Flow
-- Website portfolio
+## 🌱 My Focus
+- **Study:** cognitive science, business, and law
+- **Tech:** building `optimized` and scalable solutions
+- **Product:** diving into design, development, and management
+- **Design:** designing clean UIs to maximize UX
 
-# 💻 **Tech**
-- **Languages:** C++, Python, HTML/CSS, JavaScript, C#, Java
-- **Frameworks:** Django, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, Unity, PyCharm, Git
-- **Libraries:** NumPy, pandas, Matplotlib, scikit-learn
+## 🛠️ Projects
+- **Portfolio:** Revamping personal website to improve UI/UX and add more interactive elements
+- **Web platform:** Building a mini web platform that optimizes productivity and social media
+- **Life optimization:** Developing a life manager that uses gamification to enhance life optimization and motivation
+- **Finance:** Designing and engineering financial software to elevate UX
 
-# 📖 **Learning**
-- CS review
-- Full stack development<br>
+## ✦ Background
+- 🤝 **Organizations:** Serve `30+ organizations` (companies, startups, nonprofits) through tech, business, and design
+  - Organize `60+ events, initiatives, and programs` across multiple organizations at the internal, national, state, and local level
+- 🚀 **Projects:** Build and jump start `15+ projects` focused on `tech fields` with `improvement`
+  - **Tech fields** - AI/ML, data science, software engineering
+  - **Improvement** - gamification, healthcare, life optimization, productivity
+  - Center optimization to streamline impact and create streamlined systems
+- 🎨 **Products:** Design `20+ innovative products` to solve real-world problems and enhance UX
+- ⚙️ **Workflows:** Develop `10+ productivity workflows` that support dynamic environments and integration for project management and design
 
-## 💻 **Tech**
-- **Languages:** C++, Python, Java, HTML/CSS, JavaScript, C#
-- **Frameworks:** Vue.js, Tailwind CSS, libGDX
-- **Developer Tools:** Visual Studio Code, PyCharm, Git
+## 💻 Tech Stack
+- **Languages:** C++, Python, Java, JavaScript, HTML/CSS, C#
+- **Frameworks:** React, Next.js, Vue.js, Tailwind CSS
+- **Developer Tools:** Git, Visual Studio Code, PyCharm, Unity
 - **Libraries:** scikit-learn, pandas, NumPy, Matplotlib
 
-  ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imallison&layout=compact&theme=dark&langs_count=6&exclude_repo=books-data-analysis,grocery-in-one)
+## 📞 Connect with Me
+- [Portfolio Website](https://www.allisonpham.dev/)
+- [LinkedIn](https://www.linkedin.com/in/allisonpham7)
+- [Devpost](https://devpost.com/imallison)
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
