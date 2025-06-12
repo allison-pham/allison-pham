@@ -35,7 +35,6 @@
 ## 📞 Connect with Me
 - [Portfolio Website](https://www.allisonpham.dev/)
 - [LinkedIn](https://www.linkedin.com/in/allisonpham7)
-- [Devpost](https://devpost.com/imallison)
 
 <!---
 allison-pham/allison-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
