@@ -1,29 +1,33 @@
-# 🚀 I'm Allison | Intersecting product, tech, business to develop & scale solutions
+# 🚀 I'm Allison | Bridging product + tech + business to develop scalable solutions
 <p>
 
-*Computer Engineering @ UCR, Building @ NYX, Product @ Various Organizations*
+＋ *Computer Engineering @ UC Riverside*
+<br>
+＋ *Building @ NYX*
+<br>
+＋ *Product & Strategy @ Various Organizations*
 
-## 🌱 My Focus
-- **Study:** cognitive science, business, and law
-- **Tech:** building `optimized` and scalable solutions
-- **Product:** diving into design, development, and management
-- **Design:** designing clean UIs to maximize UX
+## 🌱 Focus Areas
+- **Tech:** scalable systems, optimized productivity platforms
+- **Product:** UI/UX design, iterations, development, management
+- **Design:** clean, accessible, and interactive user experiences (UX)
+- **Study:** computer science, electrical engineering, cognitive science, neuromorphic engineering, business, law
 
 ## 🛠️ Projects
-- **Portfolio:** Revamping personal website to improve UI/UX and add more interactive elements
-- **Web platform:** Building a mini web platform that optimizes productivity and social media
-- **Life optimization:** Developing a life manager that uses gamification to enhance life optimization and motivation
-- **Finance:** Designing and engineering financial software to elevate UX
+- **Productivity Platform:** Mini web tool that intersects `productivity` and social media
+- **Life Optimizer:** `Gamified` system for motivation and behavior optimization
+- **Neuromorphic BCI:** Brain-computer interface (BCI) system that merges neuromorphic computing with `cognitive UX` design
+- **Space Economy:** Prototyping and exploring speculative UX, systems, and infrastructure for `astro-commerce` and interplanetary trade
 
-## ✦ Background
-- 🤝 **Organizations:** Serve `30+ organizations` (companies, startups, nonprofits) through tech, business, and design
+## ✦ Background Highlights
+- 🤝 **Organizations:** Lead and contribute to `30+ organizations` (companies, startups, nonprofits) across tech, business, and design
   - Organize `60+ events, initiatives, and programs` across multiple organizations at the internal, national, state, and local level
 - 🚀 **Projects:** Build and jump start `15+ projects` focused on `tech fields` with `improvement`
-  - **Tech fields** - AI/ML, data science, software engineering
+  - **Tech fields** - AI/ML, data science, software
   - **Improvement** - gamification, healthcare, life optimization, productivity
-  - Center optimization to streamline impact and create streamlined systems
-- 🎨 **Products:** Design `20+ innovative products` to solve real-world problems and enhance UX
-- ⚙️ **Workflows:** Develop `10+ productivity workflows` that support dynamic environments and integration for project management and design
+  - **Optimization** - center optimization to streamline impact and create streamlined systems
+- 🎨 **Products:** Design `20+ innovative products` for real-world utility and integrate an intuitive UX
+- ⚙️ **Workflows:** Develop `10+ productivity workflows` that support dynamic environments and integration for project management, design, and operations
 
 ## 💻 Tech Stack
 | Category             | Tools |
@@ -33,6 +37,6 @@
 | Libraries            | [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white&labelColor=11557c)](https://matplotlib.org/) |
 | Design               | [![Figma](https://img.shields.io/badge/-Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://figma.com/) [![Canva](https://img.shields.io/badge/-Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)](https://canva.com/)
 
-## 📞 Connect with Me
+## 🍵 Contact
 - [Personal Website](https://www.allisonpham.dev/)
 - [LinkedIn](https://www.linkedin.com/in/allisonpham7)
