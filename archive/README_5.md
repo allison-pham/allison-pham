@@ -1,6 +1,4 @@
 # 🚀 I'm Allison | Bridging product + tech + business to develop scalable solutions
-<p>
-
 ＋ *Computer Engineering @ UC Riverside*
 <br>
 ＋ *Building @ NYX*
