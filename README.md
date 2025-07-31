@@ -1,4 +1,4 @@
-# 🚀 Allison Pham | Bridging product + tech + business to develop scalable solutions
+# ✦ Allison Pham | Bridging tech, product, & business to build scalable solutions
 ＋ *Computer Engineering @ UC Riverside*
 <br>
 ＋ *Building @ NYX*
@@ -13,23 +13,24 @@
 - **Tech:** scalable systems, optimized productivity platforms
 - **Product:** UI/UX design, iterations, development, management
 - **Design:** clean, accessible, and interactive user experiences (UX)
-- **Study:** computer science, electrical engineering, cognitive science, neuromorphic engineering, business, law
+- **Study:** computer science, electrical engineering
+- **Interests:** business, cognitive science, neuromorphic engineering, law
 
 </details>
 
-## 🛠️ Projects
+## 🚀 Projects
 **Productivity | Cognitive UX | Space**
 <details>
   <summary><b>More details</b></summary>
 
 - **Productivity Platform:** Mini web tool that intersects `productivity` and social media
 - **Life Optimizer:** `Gamified` system for motivation and behavior optimization
-- **Neuromorphic BCI:** Brain-computer interface (BCI) system that merges neuromorphic computing with `cognitive UX` design
-- **Space Economy:** Prototyping and exploring speculative UX, systems, and infrastructure for `astro-commerce` and interplanetary trade
+- **Neuromorphic HCI:** Human-computer interface (HCI) system that merges neuromorphic computing with `cognitive UX` design
+- **Space Systems:** Prototyping and exploring `asynchronous UX` for Mars and beyond to reinvent interfaces for time-delayed (latency), deep-space missions
 
 </details>
 
-## ✦ Background Highlights
+## 💫 Background Highlights
 **30+ Orgs | 20+ Projects | 5+ Interdisciplinary Fields**
 <details>
   <summary><b>More details</b></summary>
