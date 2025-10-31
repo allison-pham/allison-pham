@@ -1,9 +1,9 @@
 # ✦ Allison Pham | Bridging tech, product, & business to build scalable solutions
 ＋ *Computer Engineering @ UC Riverside*
 <br>
-＋ *Building @ NYX*
+＋ *Fusing Product Design & Cognitive Science*
 <br>
-＋ *Product & Strategy @ Various Organizations*
+＋ *Building Product & Strategy @ Various Organizations*
 
 ## 🌱 Focus Areas
 **Tech | Product | Design | Study**
