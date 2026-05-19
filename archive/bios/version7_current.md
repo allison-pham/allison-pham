@@ -30,16 +30,16 @@
 
 | **Project** | **Category** | **Description / Focus** | **Status** |
 |---|---|---|---|
-| **Space Systems** | Computer Science | • Prototyping and exploring `asynchronous UX` for Mars and beyond to reinvent interfaces for time-delayed (latency), deep-space missions | 🌻 Current |
-| **NeuroWell** | Computer Science | • Interdisciplinary platform of 5+ fields for `accessible learning` and healthcare information<br>• Mind + brain: neuroscience, cognitive science, psychology<br>• Tech: AI/ML<br>• Impact: health, education, accessibility, productivity | 🌻 Current |
-| **Figma Plugin** | Computer Science | • Improving design, collaboration, and creative `workflows` | 🌻 Current |
+| **Space Systems** | CS | • Prototyping and exploring `asynchronous UX` for Mars and beyond to reinvent interfaces for time-delayed (latency), deep-space missions | 🌻 Current |
+| **NeuroWell** | CS | • Interdisciplinary platform of 5+ fields for `accessible learning` and healthcare information<br>• Mind + brain: neuroscience, cognitive science, psychology<br>• Tech: AI/ML<br>• Impact: health, education, accessibility, productivity | 🌻 Current |
+| **Figma Plugin** | CS | • Improving design, collaboration, and creative `workflows` | 🌻 Current |
 | **Productivity Platform** | Product Design | • Mini web tool that intersects `productivity` and social media | 🌻 Current |
 | **Life Optimizer** | Product Management | • `Gamified` system for motivation and behavior optimization | 🌻 Current |
 | **Neuromorphic HCI** | Product Management | • Human-computer interface (HCI) system that merges neuromorphic computing with `cognitive UX` design | 🌻 Current |
 | **Cognitive Interfaces** | Product Design | • Tool shaped around `human mental models` fusing interaction concepts (cognition-driven UI experiments) | 🌻 Current |
-| **Assistify** | Computer Science | • AI chatbot improving support workflows | 🌙 Previous |
-| **PantryPilot** | Computer Science | • NLP-based recommendation and search system | 🌙 Previous |
-| **Wellnest** | Computer Science | • Food inventory management and organization platform | 🌙 Previous |
+| **Assistify** | AI / Support Systems | • AI chatbot improving support workflows | 🌙 Previous |
+| **PantryPilot** | NLP / Search Systems | • NLP-based recommendation and search system | 🌙 Previous |
+| **Wellnest** | Productivity / Management | • Food inventory management and organization platform | 🌙 Previous |
 
 → More projects and explorations on my [website](http://allisonpham.dev)!
 
@@ -61,10 +61,6 @@
 
 ## 💻 Technical Skills
 **Languages | Frameworks | Developer Tools | Libraries | Hardware / CAD | Design**
-
-<details>
-  <summary><b>More details</b></summary>
-
 | **Category**             | **Tools** |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Languages            | [![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/) [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![C](https://img.shields.io/badge/-C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![SQL](https://img.shields.io/badge/-SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL) [![Swift](https://img.shields.io/badge/-Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)](https://swift.org/) [![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
@@ -73,8 +69,6 @@
 | Libraries            | [![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white&labelColor=11557c)](https://matplotlib.org/) [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org/) |
 | Hardware / CAD       | [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/) [![SPICE](https://img.shields.io/badge/-SPICE-6E6E6E?style=flat-square)](https://en.wikipedia.org/wiki/SPICE) [![Verilog](https://img.shields.io/badge/-Verilog-8B0000?style=flat-square)](https://en.wikipedia.org/wiki/Verilog) [![FPGA](https://img.shields.io/badge/-FPGA%20Tools-4B0082?style=flat-square)](https://www.edaplayground.com/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Altium](https://img.shields.io/badge/-Altium-A5915F?style=flat-square)](https://www.altium.com/) [![Autodesk](https://img.shields.io/badge/-Autodesk-000000?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/) [![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://www.qt.io/) |
 | Design               | [![Figma](https://img.shields.io/badge/-Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://figma.com/) [![Framer](https://img.shields.io/badge/-Framer-000000?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/) [![Spline](https://img.shields.io/badge/-Spline-6C63FF?style=flat-square&logoColor=white)](https://spline.design/) [![Canva](https://img.shields.io/badge/-Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)](https://canva.com/) ![Adobe](https://img.shields.io/badge/-Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) |
-
-</details>
 
 ## 🍵 Contact & Connect
 [![Website](https://img.shields.io/badge/♡%20Website-000000.svg?style=flat-square)](https://www.allisonpham.dev) [![LinkedIn](https://img.shields.io/badge/☆%20LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allisonpham7)
